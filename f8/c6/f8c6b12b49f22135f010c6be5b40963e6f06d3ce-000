@@ -1,0 +1,63 @@
+{
+ "name": "DemoTilesFull_BC",
+ "net": "/obj/ZRH_DemoTilesFull_BC",
+ "reference": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/refs/DemoTilesFull_basecolor_2048.png",
+ "layers": [
+  {
+   "layer": "glaze",
+   "status": "accepted",
+   "deltaE76_mean": 20.257,
+   "lum_pearson": 0.0,
+   "seconds": 1.6,
+   "image": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_BC/L01_glaze.png"
+  },
+  {
+   "layer": "colours_k6_256",
+   "status": "accepted",
+   "deltaE76_mean": 12.129,
+   "lum_pearson": 0.7645,
+   "seconds": 2.3,
+   "image": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_BC/L02_colours_k6_256.png"
+  },
+  {
+   "layer": "colours_k10_512",
+   "status": "accepted",
+   "deltaE76_mean": 8.576,
+   "lum_pearson": 0.8808,
+   "seconds": 5.0,
+   "image": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_BC/L03_colours_k10_512.png"
+  },
+  {
+   "layer": "colours_k14_1024",
+   "status": "accepted",
+   "deltaE76_mean": 5.853,
+   "lum_pearson": 0.9559,
+   "seconds": 12.4,
+   "image": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_BC/L04_colours_k14_1024.png"
+  },
+  {
+   "layer": "colours_k20_2048",
+   "status": "accepted",
+   "deltaE76_mean": 4.081,
+   "lum_pearson": 0.986,
+   "seconds": 35.8,
+   "image": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_BC/L05_colours_k20_2048.png"
+  }
+ ],
+ "seam": {
+  "layer": {
+   "type": "seam",
+   "shift_x": 0.5,
+   "shift_y": 0.5,
+   "width": 0.001953125,
+   "note": "tileable borders, cross-fade with the wrapped copy shifted by whole cells"
+  },
+  "deltaE_before": 4.081,
+  "deltaE_after": 4.13
+ },
+ "final": {
+  "deltaE76_mean": 4.13,
+  "lum_pearson": 0.9849,
+  "image": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_BC/FINAL_basecolor.png"
+ }
+}
