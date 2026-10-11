@@ -1,0 +1,25 @@
+{
+ "name": "DemoTilesFull",
+ "work": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull",
+ "net": "/obj/ZRH_DemoTilesFull",
+ "height": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_H2/FINAL_height.png",
+ "pearson_full": 0.9975,
+ "ssim_full": 0.9954,
+ "mae": 0.0021,
+ "seam_xy": [
+  1.0,
+  1.31
+ ],
+ "seam_layer": true,
+ "zoom": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/zoom3_reference_vs_result.png",
+ "boards": [
+  "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_H1/board/Evolution.html",
+  "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_H2/board/Evolution.html"
+ ],
+ "basecolor": {
+  "deltaE76_mean": 4.13,
+  "lum_pearson": 0.9849,
+  "image": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/versions/final/DemoTilesFull_BC/FINAL_basecolor.png"
+ },
+ "minutes": 9.6
+}

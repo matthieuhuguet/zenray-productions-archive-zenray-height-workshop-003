@@ -1,0 +1,14 @@
+{
+ "path": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/status.json",
+ "name": "DemoTilesFull",
+ "work": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull",
+ "started": "2026-10-12 00:58:00",
+ "pid": 29391,
+ "step": "done",
+ "detail": "pearson 0.9975 in 9.6 min",
+ "state": "done",
+ "updated": "2026-10-12 01:07:35",
+ "elapsed_s": 574.2,
+ "layers_done": 37,
+ "report": "/Users/zenray/.claude/tmp/tmp-zenray-height/projects/DemoTilesFull/report.json"
+}
